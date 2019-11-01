@@ -1,5 +1,5 @@
 #!/home/user/virtenvs/pyneng-py3-1/bin/python3
-# works fot 192.168.1.1/24, but doesn't work for prefixes like 10.1.1.0/24, because 10 = 0b1010, but we need to get 0b00001010
+# works for addresses like 192.168.1.1/24, but doesn't work for addresses like 10.1.1.0/24, because 10 = 0b1010, but we need to get 0b00001010
 ip = input("Enter your ip address with mask, please: ")
 ip1 = ip.split('/')
 ip2 = ip1[0].split('.')
