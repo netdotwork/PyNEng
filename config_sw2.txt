@@ -59,6 +59,15 @@ interface FastEthernet1/2
  duplex auto
 !
 interface FastEthernet1/3
+ switchport mode access
+ duplex auto
+!
+interface FastEthernet2/0
+ switchport mode access
+ duplex auto
+!
+interface FastEthernet2/1
+ switchport mode access
  duplex auto
 !
 interface Vlan100
