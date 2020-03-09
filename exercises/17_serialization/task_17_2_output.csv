@@ -1,0 +1,4 @@
+hostname,ios,image,uptime
+r1,12.4(15)T1,flash:c1841-advipservicesk9-mz.124-15.T1.bin,"15 days, 8 hours, 32 minutes"
+r2,12.4(4)T,disk0:c7200-js-mz.124-4.T,"45 days, 8 hours, 22 minutes"
+r3,12.4(4)T,disk0:c7200-js-mz.124-4.T,"5 days, 18 hours, 2 minutes"
