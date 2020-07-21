@@ -83,6 +83,10 @@ source /usr/local/bin/virtualenvwrapper.sh
 
 `mkvirtualenvwrapper -p /usr/bin/python3 pyneng-py3-1`
 
+или
+
+`mkvirtualenv -p /usr/local/bin/python3.7 pyneng-py3-1`
+
 для python2:
 
 `mkvirtualenv pyneng-py2-1`
