@@ -1,9 +1,0 @@
-{% extends "cisco_base.txt" %}
-
-{% block alias %}
-{% include "alias.txt" %}
-{% endblock %}
-
-{% block eem_int_desc %}
-{% include "eem_int_desc.txt" %}
-{% endblock %}
